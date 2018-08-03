@@ -1,0 +1,102 @@
+let friends = [
+{
+  "name":"Ozzy",
+  "photo":"https://www.google.com/imgres?imgurl=http%3A%2F%2Fimg.timeinc.net%2Ftime%2Fdaily%2F2010%2F1001%2F360_br10q_0208.jpg&imgrefurl=http%3A%2F%2Fcontent.time.com%2Ftime%2Fmagazine%2Farticle%2F0%2C9171%2C1957475%2C00.html&docid=LFlZNpty8NkfxM&tbnid=ux_tb2id5szZIM%3A&vet=10ahUKEwjG_Nqs4NHcAhUFWK0KHXNpATwQMwiVAigHMAc..i&w=360&h=235&bih=631&biw=1280&q=ozzy&ved=0ahUKEwjG_Nqs4NHcAhUFWK0KHXNpATwQMwiVAigHMAc&iact=mrc&uact=8",
+  "scores":[
+      5,
+      4,
+      1,
+      5,
+      1,
+      2,
+      3,
+      4,
+      5,
+      3
+    ] 
+},
+{
+  "name":"Vinnie Paul",
+  "photo":"https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjUpITY4NHcAhULsVQKHZBUBxwQjRx6BAgBEAU&url=https%3A%2F%2Fwww.cnn.com%2F2018%2F06%2F23%2Fentertainment%2Fpantera-vinnie-paul-dead%2Findex.html&psig=AOvVaw1NP-Rxwg5ePB5Ko8QNsld-&ust=1533415671546296",
+  "scores":[
+      1,
+      5,
+      5,
+      5,
+      3,
+      2,
+      3,
+      5,
+      3,
+      2
+    ]
+},
+{
+  "name":"Rob Halford",
+  "photo":"https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwijupn24NHcAhVKJKwKHfr0BYoQjRx6BAgBEAU&url=http%3A%2F%2Fwww.sfexaminer.com%2Fthoughtful-chat-judas-priests-rob-halford%2F&psig=AOvVaw3uYOTwqW5SoMIryoFC8Ysw&ust=1533415728973526",
+  "scores":[
+      1,
+      3,
+      3,
+      1,
+      5,
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+},
+{
+  "name":"Layne",
+  "photo":"https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiJtbCG4dHcAhUFiVQKHUjFCd8QjRx6BAgBEAU&url=https%3A%2F%2Fwww.revolvermag.com%2Fmusic%2Ffan-poll-top-5-layne-staley-vocal-performances&psig=AOvVaw1d2jhY5xjn6YS7SDDjxFuW&ust=1533415773342809",
+  "scores":[
+      1,
+      4,
+      3,
+      1,
+      5,
+      2,
+      3,
+      2,
+      3,
+      2
+    ]
+},
+{
+  "name":"Bob Seger",
+  "photo":"https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjV5b-X4dHcAhVGS6wKHQytAygQjRx6BAgBEAU&url=https%3A%2F%2Fwww.rockhall.com%2Finductees%2Fbob-seger&psig=AOvVaw2X08PAmSuh-dHh3QdJ6UW7&ust=1533415806299203",
+  "scores":[
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5
+    ]
+},
+{
+  "name":"James",
+  "photo":"https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiM4oyt4dHcAhVCSK0KHZxtA9kQjRx6BAgBEAU&url=https%3A%2F%2Fmetalheadzone.com%2Fjames-hetfield-reveals-his-opinion-about-trump%2F&psig=AOvVaw006SGWs3o5Lb0dFwBLdjkR&ust=1533415852761071",
+  "scores":[
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+}
+];
+
+module.exports = friends;
+
+
