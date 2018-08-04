@@ -5,7 +5,6 @@ let bestFriend = {
 	image: ""
 };
 
-
 $('#submit').on('click', () => {
 	let userName = $('#name').val().trim();
 	let imag = $('#image').val().trim();
@@ -52,8 +51,7 @@ $('#submit').on('click', () => {
 	}
 });
 
-
-function findFriend(scores) {
+function findFriend(scores: ) {
 
 	$.get('/api/friends', (friends) => {
 
