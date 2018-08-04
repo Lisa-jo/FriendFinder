@@ -51,7 +51,7 @@ $('#submit').on('click', () => {
 	}
 });
 
-function findFriend(scores: ) {
+function findFriend(scores) {
 
 	$.get('/api/friends', (friends) => {
 
